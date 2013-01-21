@@ -1,1 +1,1 @@
-cookbook 'lxc', path: '/Users/dan/Code/aa/lxc'
+cookbook 'lxc', github: 'appliedawesome/chef-lxc'
